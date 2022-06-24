@@ -21,7 +21,7 @@ create a function in child class to print a message.
 ## Program:
 ```c#
 using System;
-namespace fawzi{
+namespace stanes{
     public class vehicle
     {
         public vehicle()
