@@ -1,4 +1,6 @@
-# Inheritance
+### EX NO : 08
+### DATE  : 01.06.2022
+# <p align="center">Inheritance</p>
 
 ## Aim:
 To write a C# program to print some messages using hierarchical inheritance.
@@ -15,12 +17,11 @@ Create a constructor in the base class and print a message.
 ### step 4:
 create a function in child class to print a message.
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Program:
 ```c#
 using System;
-namespace ragav
-{
+namespace fawzi{
     public class vehicle
     {
         public vehicle()
@@ -43,8 +44,7 @@ namespace ragav
             Console.Write(" to scooter");
         }
     }
-    public class program
-    {
+    public class program{
         public static void Main(string[] args)
         {
             car car = new car();
